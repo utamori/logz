@@ -4,8 +4,8 @@ go 1.15
 
 require (
 	github.com/gin-gonic/gin v1.7.2
-	github.com/glassonion1/logz v0.3.11
-	github.com/google/go-cmp v0.5.6
-	go.opentelemetry.io/otel v1.0.0-RC1
-	go.opentelemetry.io/otel/trace v1.0.0-RC1
+	github.com/glassonion1/logz v0.3.13
+	github.com/google/go-cmp v0.5.9
+	go.opentelemetry.io/otel v1.14.0
+	go.opentelemetry.io/otel/trace v1.14.0
 )
